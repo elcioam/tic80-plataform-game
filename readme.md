@@ -12,19 +12,31 @@ To play the game, simply follow these steps:
 4. Enjoy the game!
 
 ## Team Members
-- **Élcio Amorim**
-- **Arthur Mendonça**
-- **Kauã Lucas**
-- **Humberto Henrique**
+
+- **Élcio Amorim**  
+  [![Github](https://img.shields.io/badge/GitHub-Élcio-blue?style=flat&logo=github)](https://github.com/elcioam)
+
+- **Arthur Mendonça**  
+  [![Github](https://img.shields.io/badge/GitHub-Arthur-blue?style=flat&logo=github)](https://github.com/ImArthz)
+
+- **Kauã Lucas**  
+  [![Github](https://img.shields.io/badge/GitHub-Kauã-blue?style=flat&logo=github)](https://github.com/KauaLucas2004)
+
+- **Humberto Henrique**  
+  [![Github](https://img.shields.io/badge/GitHub-Humberto-blue?style=flat&logo=github)](https://github.com/HumbHen)
 
 ## Advisor
-- [**Diego Ascanio**](https://github.com/diegoascanio)
+
+- **Diego Ascanio**  
+  [![Github](https://img.shields.io/badge/GitHub-Diego-blue?style=flat&logo=github)](https://github.com/diegoascanio)
 
 ## Credits
-- [.MID to .TIC](https://github.com/wojciech-graj/TIC-MIDI)
-- [Map Sprites/Tileset](https://v3x3d.itch.io/deep-night)
 
+- **[.MID to .TIC](https://github.com/wojciech-graj/TIC-MIDI)**  
+  [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github)](https://github.com/wojciech-graj/TIC-MIDI)
 
+- **[Map Sprites/Tileset](https://v3x3d.itch.io/deep-night)**  
+  [![Itch.io](https://img.shields.io/badge/Itch.io-Assets-orange?style=flat&logo=itch.io)](https://v3x3d.itch.io/deep-night)
 ---
 
 We hope you liked it.
