@@ -32,10 +32,10 @@ To play the game, simply follow these steps:
 
 ## Credits
 
-- **[.MID to .TIC](https://github.com/wojciech-graj/TIC-MIDI)**  
+- **.MID to .TIC**  
   [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github)](https://github.com/wojciech-graj/TIC-MIDI)
 
-- **[Map Sprites/Tileset](https://v3x3d.itch.io/deep-night)**  
+- **Map Sprites/Tileset**  
   [![Itch.io](https://img.shields.io/badge/Itch.io-Assets-orange?style=flat&logo=itch.io)](https://v3x3d.itch.io/deep-night)
 ---
 
